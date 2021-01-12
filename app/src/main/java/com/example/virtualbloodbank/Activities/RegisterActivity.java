@@ -1,5 +1,5 @@
 package com.example.virtualbloodbank.Activities;
-package com.example.virtualbloodbank.Utils;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
@@ -59,7 +59,7 @@ Toast.makeText(this,msg,Toast.LENGTH_SHORT).show();
 
     }
 }
-    private void register (String name, String city, String blood_group, String password, String mobile){
+    public void register(String name, String city, String blood_group, String password, String mobile){
         StringRequest stringrequest = new StringRequest(Request.Method.POST,
                 Endpoints.register_url,
                 new Response.Listener<String>() {
@@ -96,7 +96,7 @@ Toast.makeText(this,msg,Toast.LENGTH_SHORT).show();
                     VolleySingleton.getInstance(this).addToRequestQueue(stringRequest);
                 }
 
-        private boolean isValid(String name, String city,String blood_group, String password, String mobile)
+        private boolean isValid( name,  city,blood_group,  password, mobile)
         {
         List<String> valid_blood_groups = new ArrayList<>();
         valid_blood_groups.add("A+");
