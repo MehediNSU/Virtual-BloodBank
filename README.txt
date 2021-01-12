@@ -24,6 +24,8 @@ Main features:
 - have achievements and rewards
 - give feedback
 - contact/know about us
+- will be able to visit Virtual Bloodbank website.
+
 
 Operating system: Android
 
