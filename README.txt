@@ -38,7 +38,7 @@ Tools/framework use: Firebase Database, Firebase Authentication, Google Maps API
 Reference: We used code from a GitHub repository (https://github.com/MehediNSU/BloodBank)
 
 Developers:         
-Dip Saha           (1520563042) [CSE327 Section 06]
+Bishal Saha           (1520563042) [CSE327 Section 06]
 Md. Mehedi Hasan   (1721448042) [CSE327 Section 06] {product owner}
 Wasimul Islam      (1721694042) [CSE327 Section 06] {scrum master}
 
