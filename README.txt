@@ -39,8 +39,8 @@ Reference: We used code from a GitHub repository (https://github.com/MehediNSU/B
 
 Developers:         
 Bishal Saha           (1520563042) [CSE327 Section 06]
-Md. Mehedi Hasan   (1721448042) [CSE327 Section 06] {product owner}
-Wasimul Islam      (1721694042) [CSE327 Section 06] {scrum master}
+Md. Mehedi Hasan   (1721448042) [CSE327 Section 06] 
+Wasimul Islam      (1721694042) [CSE327 Section 06] 
 
 ###############################################################################
 
